@@ -1,3 +1,4 @@
+Project done by ingchrist Happy hacking!
 # trading-bot-coindcx
 
 To install dependencies:
